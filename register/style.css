@@ -1,0 +1,91 @@
+.navbar {
+    display: flex;
+    height: 300;
+    background-color: #af2929;
+
+}
+
+.navbar h1 {
+    padding-left: 15px;
+}
+
+.nav-elements {
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#ne {
+    align-content: center;
+}
+
+.contact {
+    color: black;
+    align-content: center;
+    text-align: center;
+}
+
+.register {
+    color: black;
+    align-content: center;
+    text-align: center;
+}
+
+.contact a {
+    padding-left: 80px;
+    padding-right: 15px;
+}
+
+.page {
+    display: flex;
+    background-color: #cf8b76f1;
+    width: auto;
+    height:700px;
+    
+}
+
+.form {
+    background-color: #fffffff1;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    align-content: center;
+    border-style: solid;
+    border-color: #921e1e;
+    /* border-radius: 40px; */
+}
+
+.form-label {
+    height: 100px;
+    background-color: rgb(131, 17, 17);
+}
+
+.form-label h {
+    padding: 10px;
+}
+
+form label {
+    color: #921e1e;
+}
+
+form input {
+    margin-top: 20px;
+}
+
+.input-box {
+    margin: 20px;;
+}
+
+.submit {
+    height: 40px;
+    width: 350px;
+    background-color: rgb(131, 17, 17);
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+
+.submit:hover {
+    border: 3px#fffffff1;
+}
